@@ -1,5 +1,8 @@
 # Test-Cases
 
+## Title
+Head title
+
 ----------------------
 **Description**
 Check if the website have the correct head title
