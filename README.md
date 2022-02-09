@@ -1,16 +1,16 @@
 # Test-Cases
 
-**Title**
+**Title:**
 Head title
 
 ----------------------
-**Description**
+**Description:**
 Check if the website have the correct head title
 
 
 -----------------------------------
 
-**Steps to Reproduce**
+**Steps to Reproduce:**
 1. Go to www.fashiondays.ro
 
 **Expected Results*
